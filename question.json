@@ -1,402 +1,192 @@
 [
 {
-    "question" : "What is operating system?",
-    "a": "Collection of programs that manages hardware resources",
-    "b": "Link to interface the hardware and application program",
-    "c": "System service provider to the application program",
-    "d": "All of the mentioned",
+    "question" : "What is the illuminance of a spotlight that has a luminous flux of 1750lm and is 2.5m away from the ground?",
+    "a": "26lx",
+    "b": "40lx",
+    "c": "0.9lx",
+    "d": "22.3lx",
     "answer": "d"
 },
 {
-    "question" : "To access the services of operating system, the interface is provided by the:",
-    "a": "System calls",
-    "b": "API",
-    "c": "Library",
-    "d": "Assembly Instruction",
+    "question" : "Rank the following colors of light according to their frequency, from least to greatest: (green, red, violet, indigo, orange)",
+    "a": "Red, Orange, Green, Indigo, Violet",
+    "b": "Violet, Indigo, Green, Orange, Red",
+    "c": "Red, Orange, Green, Indigo, Volet",
+    "d": "Red, Green, Orange, Violet, Indigo",
     "answer": "a"
 },
 {
-    "question" : "Which one of the following is not true?",
-    "a": "Kernel is the program that constitues the central core of the operating system",
-    "b": "Kernel is the first part of operating system to load into memory during booting",
-    "c": "Kernel is made of various modules which can not be loaded in running operating system",
-    "d": "Kernel remains in the memory during the entire computer session",
+    "question" : "Two polarizing filters are placed infront of a light if the axis of the two filters are perpendicular to each other, how much light is blocked by them?",
+    "a": "100$",
+    "b": "1.333333%",
+    "c": "100%",
+    "d": "0%",
     "answer": "c"
 },
 {
-    "question" : "Which one of the following error will be handle by the operating system?",
-    "a": "Power failure",
-    "b": "Lack of paper in printer",
-    "c": "Connection failure in the network",
-    "d": "All of the mentioned",
+    "question" : "On a concave mirror, if an object is on the focal point where would the image be?",
+    "a": "Inverted and at the focal point",
+    "b": "Between the focal point and the center",
+    "c": "Between the focal point and the mirror",
+    "d": "At infinity",
     "answer": "d"
 },
 {
-    "question" : "The main function of the command interpreter is:",
-    "a": "To get and execute the next user-specified command",
-    "b": "To provide the interface between the API and application program",
-    "c": "To handle the files in operating system",
-    "d": "None of the mentioned",
+    "question" : "A laser beam in ethanol(n = 1.36) enters air at an angle of incidence of 37. What is the angle of refraction?",
+    "a": "55",
+    "b": "37",
+    "c": "26.2",
+    "d": "0",
     "answer": "a"
 },
 {
-    "question" : "By operating system, the resource management can be done via:",
-    "a": "Time division multiplexing",
-    "b": "Space division multiplexing",
-    "c": "Both (a) and (b)",
-    "d": "None of the mentioned",
+    "question" : "A public school law requires a minimum illuminance of 160lx at the surface of each student’s desk. An architect’s specifications call for classroom lights to be located 2m above the desks. What is the  minimum luminous flux that the lights must produce?",
+    "a": "8042ln",
+    "b": "790lm",
+    "c": "8042lm",
+    "d": "2.099lm",
     "answer": "c"
 },
 {
-    "question" : "If a process fails, most operating system write the error information to a:",
-    "a": "Log file",
-    "b": "Another running process",
-    "c": "New file",
-    "d": "None of the mentioned",
+    "question" : "The bending of light as it passes an edge of a barrier is known as _______ ",
+    "a": "Diffraction",
+    "b": "Polarization",
+    "c": "Reflection",
+    "d": "Difraction",
     "answer": "a"
 },
 {
-    "question" : "Which facility dynamically adds probes to a running system, both in user processes and in the kernel?",
-    "a": "DTrace",
-    "b": "DLocate",
-    "c": "DMAP",
-    "d": "DAdd",
+    "question" : "You place an object near a concave mirror with a 10cm focal length. The image is 3cm tall, inverted, and 16cm away from the mirror. What are the object's position and hight?",
+    "a": "x(object)= 26.7cm, h(object)= 5cm",
+    "b": "x(object)= 30cm, h(object)= 5cm",
+    "c": "x(object)= 26.7cm, h(object)= 6m",
+    "d": "x(object)= 26.7m, h(object)= 5m",
     "answer": "a"
 },
 {
-    "question" : "Which one of the following is NOT a real time operating system?",
-    "a": "VxWorks",
-    "b": "Windows CE",
-    "c": "RTLinux",
-    "d": "Palm OS",
+    "question" : "A block of a transparent material is submerged in water. Light in the water enter the block at an angle of incidence of 31°.The angle of refraction of the light in the block is 27. What is the index of refraction of the material of the block?",
+    "a": "n(2)= 1.0003, Aiz",
+    "b": "n(2)= 1.0003, Air",
+    "c": "n(1)= 3, Water",
+    "d": "n(2)= 1.54, Quartz",
     "answer": "d"
 },
 {
-    "question" : "__________ is built directly on the hardware.",
-    "a": "Computer environment",
-    "b": "Application software",
-    "c": "Database system",
-    "d": "Operating system",
+    "question" : "Distance of a Light Source A lightbulb illuminating your computer keyboard provides only half the illuminance that it should. If it is currently 1.0 m  away, how far should it be to provide the correct illuminance?",
+    "a": "0.6m",
+    "b": "1m",
+    "c": "8m",
+    "d": "0.71m",
     "answer": "d"
 },
 {
-    "question" : "Termination of a process can be due to?",
-    "a": "Fatal error",
-    "b": "Killed by another process",
-    "c": "Normal exit",
-    "d": "All of the mentioned",
+    "question" : "Unpolarized light with the intensity of 1.88W/m^2 passes through two polarizers. The emerging polarized light has an intensity of 0.38W/m^2. What is the angle between the two polarizers?",
+    "a": "15",
+    "b": "30",
+    "c": "49",
+    "d": "50.4",
     "answer": "d"
 },
 {
-    "question" : "The operating system creates __________ from the physical computer.",
-    "a": "Virtual space",
-    "b": "Virtual computers",
-    "c": "Virtual device",
-    "d": "None of the mentioned",
+    "question" : "On concave mirror,if the object is between the center and the focal point where would the image be?",
+    "a": "virtual, behind the mirror",
+    "b": "inverted, beyond the center and real",
+    "c": "On the focal point",
+    "d": "All of the above",
     "answer": "b"
 },
 {
-    "question" : "Which is the first program run on a computer when the computer boots up?",
-    "a": "Operating system",
-    "b": "Application software",
-    "c": "System software",
-    "d": "All of the mentioned",
+    "question" : "Red and Blue make?",
+    "a": "magenta",
+    "b": "lavender",
+    "c": "cement grey",
+    "d": "Green",
     "answer": "a"
 },
 {
-    "question" : "Which is the layer of a computer system between the hardware and the user program?",
-    "a": "Operating environment",
-    "b": "Operating system",
-    "c": "System environment",
-    "d": "None of the mentioned",
+    "question" : "A light ray is moving from a denser medium to a less denser medium. What would happen to the angle of incident?",
+    "a": "It will decrease",
+    "b": "It will increase",
+    "c": "It will stay the same",
+    "d": "None of the above",
     "answer": "b"
 },
 {
-    "question" : "The primary purpose of an operating system is:",
-    "a": "To make the most efficient use of the computer hardware",
-    "b": "To allow people to use the computer",
-    "c": "To keep systems programmers employed",
-    "d": "To make computers easier to use",
+    "question" : "An observer stands 3m from a light source. The brightness of the light at the distance is 12lx. What is the intensity of the light?",
+    "a": "108cd",
+    "b": "110cd",
+    "c": "50cd",
+    "d": "17cd",
     "answer": "a"
 },
 {
-    "question" : "What should be the extension to execute files?",
-    "a": "exe",
-    "b": "bat",
-    "c": "com",
-    "d": "All of the mentioned",
+    "question" : "A convex mirror has a focal length of -13cm. You place a 6cm diameter light bulb 60cm away from that mirror. What is the lightbulb's image position and diameter?",
+    "a": "x(i)= 11m, n(i)= 0.5m",
+    "b": "x(i)= 5m, n(i)= 9m",
+    "c": "x(i)= 15cm, n(i)= 1.07cm",
+    "d": "x(i)= 10.68cm, n(i)= 1.07cm",
     "answer": "d"
 },
 {
-    "question" : "Which file keeps commands to execute automatically when OS is started?",
-    "a": "command.com",
-    "b": "any batch file",
-    "c": "autoexec.bat",
-    "d": "config.sys",
+    "question" : "Which answer describes 'total internal reflection' the best?",
+    "a": "When the angle of incidence equals the angle of refraction",
+    "b": "The bending of light as it passes from a less dense to a denser medium.",
+    "c": "The bending of light as it passes from a denser to a less dense medium at an angle greater than the critical angle.",
+    "d": "When light reflects off a mirrored surface with no loss of energy.",
     "answer": "c"
 },
 {
-    "question" : "Which is NOT the function of the Operating System?",
-    "a": "Memory management",
-    "b": "Disk management",
-    "c": "Application management",
-    "d": "Virus protection",
+    "question" : "The brightness of the light see by observer A is three times the brightness of the light seen by observer B. Observer B is 4m away from the light, how far is observer A from the light?",
+    "a": "r(B)= 2.3m",
+    "b": "r(A)= 5m",
+    "c": "r(A)= 3m",
+    "d": "r(A)= 2.3m",
     "answer": "d"
 },
 {
-    "question" : "The Operating System manages:",
-    "a": "Memory",
-    "b": "Processes",
-    "c": "Disk and I/O devices",
-    "d": "All of the mentioned",
+    "question" : "A 1.8m tall girl stands 2.4m from a store's security. Her image seems to be 0.36m tall. What is the focal length on the mirror?",
+    "a": "f= -3m",
+    "b": "f= -8m",
+    "c": "f= 2m",
+    "d": "f= -0.6m",
     "answer": "d"
 },
 {
-    "question" : "The chunks of a memory are known as:",
-    "a": "Sector",
-    "b": "Offset",
-    "c": "Page",
-    "d": "Frame",
+    "question" : "What are pigments made from?",
+    "a": "Plants",
+    "b": "Bugs",
+    "c": "Insects",
+    "d": "Minerals",
     "answer": "d"
 },
 {
-    "question" : "Command Interpreter is also known as:",
-    "a": "Prompt",
-    "b": "Shell",
-    "c": "Command",
-    "d": "DOS Prompt",
+    "question" : "On a concave mirror, if an object is between the focal point and the mirror. Where would the image be?",
+    "a": "On the focal point",
+    "b": "Behind the mirror, virtual, enlarged",
+    "c": "On the center",
+    "d": "Behind the mirror, real, enlarged",
     "answer": "b"
 },
 {
-    "question" : "Which of the follow are System Programming Language?",
-    "a": "C",
-    "b": "PL/360",
-    "c": "Pascal",
-    "d": "All of mentioned",
+    "question" : "If a light from a dense medium enters a denser medium, what would happen to the angle of incident?",
+    "a": "Nothing will happen",
+    "b": "It will remain the same",
+    "c": "It will increase",
+    "d": "It will decrease",
     "answer": "d"
 },
 {
-    "question" : "Which of the following resources must be protected by the Operating System?",
-    "a": "I/O",
-    "b": "Memory",
-    "c": "CPU",
-    "d": "All of mentioned",
+    "question" : "The study of light is called ________",
+    "a": "Ray optic",
+    "b": "none of the above",
+    "c": "Geometric optic",
+    "d": "a & c",
     "answer": "d"
 },
 {
-    "question" : "First-in-First-Out (FIFO) scheduling is:",
-    "a": "Non-preemptive scheduling",
-    "b": "Preemptive scheduling",
-    "c": "Fair share scheduling",
-    "d": "Deadline scheduling",
+    "question" : "Mixing yellow and cyan make ________",
+    "a": "Green",
+    "b": "Blue",
+    "c": "Black",
+    "d": "Magenta",
     "answer": "a"
-},
-{
-    "question" : "Which of the following memory unit that processor can access more rapidly?",
-    "a": "Main memory",
-    "b": "Virtual memory",
-    "c": "Cache memory",
-    "d": "Read Only memory",
-    "answer": "c"
-},
-{
-    "question" : "Which one of the following is NOT the function of Operating System?",
-    "a": "Resource management",
-    "b": "File management",
-    "c": "Networking",
-    "d": "Processor management",
-    "answer": "c"
-},
-{
-    "question" : "Paging is implemented in?",
-    "a": "Operating system",
-    "b": "Hardware",
-    "c": "Software",
-    "d": "All of the mentioned",
-    "answer": "b"
-},
-{
-    "question" : "A process is __________ ",
-    "a": "Program in main memory",
-    "b": "Program in cache memory",
-    "c": "Program in secondary storage",
-    "d": "Program in execution",
-    "answer": "d"
-},
-{
-    "question" : "If the displayed system time and date is wrong, use can reset it using:",
-    "a": "Write",
-    "b": "Calender",
-    "c": "Write file",
-    "d": "Control panel",
-    "answer": "d"
-},
-{
-    "question" : "Which is NOT an application software?",
-    "a": "Windows NT",
-    "b": "Page Maker",
-    "c": "WinWord XP",
-    "d": "Photoshop",
-    "answer": "a"
-},
-{
-    "question" : "What program runs first afer computer is booted and loaded GUI?",
-    "a": "Desktop Manager",
-    "b": "File Manager",
-    "c": "Windows Explorer",
-    "d": "Authentication",
-    "answer": "d"
-},
-{
-    "question" : "Linux is a(n) __________ operating system.",
-    "a": "Open source",
-    "b": "Microsoft",
-    "c": "Windows",
-    "d": "Mac",
-    "answer": "a"
-},
-{
-    "question" : "Which mode loads minimal set of drivers when starting Windows?",
-    "a": "Safe Mode",
-    "b": "Normal Mode",
-    "c": "VGA Mode",
-    "d": "Network Support Mode",
-    "answer": "a"
-},
-{
-    "question" : "MacOS is based on the __________ operating system",
-    "a": "Windows",
-    "b": "Linux",
-    "c": "Unix",
-    "d": "CMOS",
-    "answer": "c"
-},
-{
-    "question" : "The Basic Input Output System (BIOS) resides in:",
-    "a": "RAM",
-    "b": "ROM",
-    "c": "CPU",
-    "d": "Memory cache",
-    "answer": "b"
-},
-{
-    "question" : "Recently deleted files are stored in:",
-    "a": "Desktop",
-    "b": "Taskbar",
-    "c": "Recycle bin",
-    "d": "My computer",
-    "answer": "c"
-},
-{
-    "question" : "All of the following are TRUE regarding Virtual Memory EXCEPT:",
-    "a": "Any amount of RAM can be allocated to virtual memory",
-    "b": "The setting for the amount of hard disk drive space to allocate virtual memory can be manually changed",
-    "c": "This temporary storage is called the swap file or page file",
-    "d": "Virtual memory is the physical space on the hard drive",
-    "answer": "a"
-},
-{
-    "question" : "Which of the following is suitable after user installs new drivers?",
-    "a": "Shutdown",
-    "b": "Restart",
-    "c": "Sleep",
-    "d": "Hibernate",
-    "answer": "b"
-},
-{
-    "question" : "Which of the following requires a device driver?",
-    "a": "Register",
-    "b": "Cache",
-    "c": "Main memory",
-    "d": "Disk",
-    "answer": "d"
-},
-{
-    "question" : "Which of the following scheduling algorithms is non-preemptive?",
-    "a": "Round robin",
-    "b": "FIFO",
-    "c": "Multilevel queue scheduling",
-    "d": "Multilevel queue scheduling with feedback",
-    "answer": "b"
-},
-{
-    "question" : "In operating system, a software may triggers an interrupt executing a special operation it is called as?",
-    "a": "System call",
-    "b": "Application call",
-    "c": "Software call",
-    "d": "Kernel call",
-    "answer": "a"
-},
-{
-    "question" : "Quad core processors are the processors having:",
-    "a": "1 processor",
-    "b": "2 processors",
-    "c": "3 processors",
-    "d": "4 processors",
-    "answer": "d"
-},
-{
-    "question" : "DMA is the part of computer system which is the abbreviation of?",
-    "a": "Dynamic memory address",
-    "b": "Direct memory access",
-    "c": "Dynamic memory access",
-    "d": "Direct memory address",
-    "answer": "b"
-},
-{
-    "question" : "One that is NOT an operating system mode is:",
-    "a": "User mode",
-    "b": "Kernel mode",
-    "c": "Supervisor mode",
-    "d": "System mode",
-    "answer": "d"
-},
-{
-    "question" : "One word memory storage is the collection of?",
-    "a": "2 bytes",
-    "b": "4 bytes",
-    "c": "7 bytes",
-    "d": "8 bytes",
-    "answer": "b"
-},
-{
-    "question" : "Secondary memory of the computer system is also called:",
-    "a": "Non-volatile",
-    "b": "Volatile",
-    "c": "Reserved",
-    "d": "Small",
-    "answer": "a"
-},
-{
-    "question" : "Main memory of the computer system is also called?",
-    "a": "Non-volatile",
-    "b": "Volatile",
-    "c": "Reserved",
-    "d": "Large",
-    "answer": "b"
-},
-{
-    "question" : "Example of an open source operating system is:",
-    "a": "Unix",
-    "b": "Linux",
-    "c": "Windows",
-    "d": "Both (a) and (b)",
-    "answer": "d"
-},
-{
-    "question" : "Scheduling of threads are done by?",
-    "a": "Input",
-    "b": "Output",
-    "c": "Operating System",
-    "d": "Memory",
-    "answer": "c"
-},
-{
-    "question" : "Dual mode of Operating System has:",
-    "a": "1 mode",
-    "b": "2 modes",
-    "c": "3 modes ",
-    "d": "4 modes ",
-    "answer": "b"
-}
-]
