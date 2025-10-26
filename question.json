@@ -96,11 +96,11 @@
     "answer": "b"
 },
 {
-    "question" : "Which is the first program run on a computer when the computer boots up?",
-    "a": "Operating system",
-    "b": "Application software",
-    "c": "System software",
-    "d": "All of the mentioned",
+    "question" : "Red and Blue make?",
+    "a": "magenta",
+    "b": "lavender",
+    "c": "cement grey",
+    "d": "Green",
     "answer": "a"
 },
 {
@@ -114,289 +114,81 @@
 {
     "question" : "An observer stands 3m from a light source. The brightness of the light at the distance is 12lx. What is the intensity of the light?",
     "a": "108cd",
-    "b": "To allow people to use the computer",
-    "c": "To keep systems programmers employed",
-    "d": "To make computers easier to use",
+    "b": "110cd",
+    "c": "50cd",
+    "d": "17cd",
     "answer": "a"
 },
 {
-    "question" : "What should be the extension to execute files?",
-    "a": "exe",
-    "b": "bat",
-    "c": "com",
-    "d": "All of the mentioned",
+    "question" : "A convex mirror has a focal length of -13cm. You place a 6cm diameter light bulb 60cm away from that mirror. What is the lightbulb's image position and diameter?",
+    "a": "x(i)= 11m, n(i)= 0.5m",
+    "b": "x(i)= 5m, n(i)= 9m",
+    "c": "x(i)= 15cm, n(i)= 1.07cm",
+    "d": "x(i)= 10.68cm, n(i)= 1.07cm",
     "answer": "d"
 },
 {
-    "question" : "Which file keeps commands to execute automatically when OS is started?",
-    "a": "command.com",
-    "b": "any batch file",
-    "c": "autoexec.bat",
-    "d": "config.sys",
+    "question" : "Which answer describes 'total internal reflection' the best?",
+    "a": "When the angle of incidence equals the angle of refraction",
+    "b": "The bending of light as it passes from a less dense to a denser medium.",
+    "c": "The bending of light as it passes from a denser to a less dense medium at an angle greater than the critical angle.",
+    "d": "When light reflects off a mirrored surface with no loss of energy.",
     "answer": "c"
 },
 {
-    "question" : "Which is NOT the function of the Operating System?",
-    "a": "Memory management",
-    "b": "Disk management",
-    "c": "Application management",
-    "d": "Virus protection",
+    "question" : "The brightness of the light see by observer A is three times the brightness of the light seen by observer B. Observer B is 4m away from the light, how far is observer A from the light?",
+    "a": "r(B)= 2.3m",
+    "b": "r(A)= 5m",
+    "c": "r(A)= 3m",
+    "d": "r(A)= 2.3m",
     "answer": "d"
 },
 {
-    "question" : "The Operating System manages:",
-    "a": "Memory",
-    "b": "Processes",
-    "c": "Disk and I/O devices",
-    "d": "All of the mentioned",
+    "question" : "A 1.8m tall girl stands 2.4m from a store's security. Her image seems to be 0.36m tall. What is the focal length on the mirror?",
+    "a": "f= -3m",
+    "b": "f= -8m",
+    "c": "f= 2m",
+    "d": "f= -0.6m",
     "answer": "d"
 },
 {
-    "question" : "The chunks of a memory are known as:",
-    "a": "Sector",
-    "b": "Offset",
-    "c": "Page",
-    "d": "Frame",
+    "question" : "What are pigments made from?",
+    "a": "Plants",
+    "b": "Bugs",
+    "c": "Insects",
+    "d": "Minerals",
     "answer": "d"
 },
 {
-    "question" : "Command Interpreter is also known as:",
-    "a": "Prompt",
-    "b": "Shell",
-    "c": "Command",
-    "d": "DOS Prompt",
+    "question" : "On a concave mirror, if an object is between the focal point and the mirror. Where would the image be?",
+    "a": "On the focal point",
+    "b": "Behind the mirror, virtual, enlarged",
+    "c": "On the center",
+    "d": "Behind the mirror, real, enlarged",
     "answer": "b"
 },
 {
-    "question" : "Which of the follow are System Programming Language?",
-    "a": "C",
-    "b": "PL/360",
-    "c": "Pascal",
-    "d": "All of mentioned",
+    "question" : "If a light from a dense medium enters a denser medium, what would happen to the angle of incident?",
+    "a": "Nothing will happen",
+    "b": "It will remain the same",
+    "c": "It will increase",
+    "d": "It will decrease",
     "answer": "d"
 },
 {
-    "question" : "Which of the following resources must be protected by the Operating System?",
-    "a": "I/O",
-    "b": "Memory",
-    "c": "CPU",
-    "d": "All of mentioned",
+    "question" : "The study of light is called ________",
+    "a": "Ray optic",
+    "b": "none of the above",
+    "c": "Geometric optic",
+    "d": "a & c",
     "answer": "d"
 },
 {
-    "question" : "First-in-First-Out (FIFO) scheduling is:",
-    "a": "Non-preemptive scheduling",
-    "b": "Preemptive scheduling",
-    "c": "Fair share scheduling",
-    "d": "Deadline scheduling",
+    "question" : "Mixing yellow and cyan make ________",
+    "a": "Green",
+    "b": "Blue",
+    "c": "Black",
+    "d": "Magenta",
     "answer": "a"
-},
-{
-    "question" : "Which of the following memory unit that processor can access more rapidly?",
-    "a": "Main memory",
-    "b": "Virtual memory",
-    "c": "Cache memory",
-    "d": "Read Only memory",
-    "answer": "c"
-},
-{
-    "question" : "Which one of the following is NOT the function of Operating System?",
-    "a": "Resource management",
-    "b": "File management",
-    "c": "Networking",
-    "d": "Processor management",
-    "answer": "c"
-},
-{
-    "question" : "Paging is implemented in?",
-    "a": "Operating system",
-    "b": "Hardware",
-    "c": "Software",
-    "d": "All of the mentioned",
-    "answer": "b"
-},
-{
-    "question" : "A process is __________ ",
-    "a": "Program in main memory",
-    "b": "Program in cache memory",
-    "c": "Program in secondary storage",
-    "d": "Program in execution",
-    "answer": "d"
-},
-{
-    "question" : "If the displayed system time and date is wrong, use can reset it using:",
-    "a": "Write",
-    "b": "Calender",
-    "c": "Write file",
-    "d": "Control panel",
-    "answer": "d"
-},
-{
-    "question" : "Which is NOT an application software?",
-    "a": "Windows NT",
-    "b": "Page Maker",
-    "c": "WinWord XP",
-    "d": "Photoshop",
-    "answer": "a"
-},
-{
-    "question" : "What program runs first afer computer is booted and loaded GUI?",
-    "a": "Desktop Manager",
-    "b": "File Manager",
-    "c": "Windows Explorer",
-    "d": "Authentication",
-    "answer": "d"
-},
-{
-    "question" : "Linux is a(n) __________ operating system.",
-    "a": "Open source",
-    "b": "Microsoft",
-    "c": "Windows",
-    "d": "Mac",
-    "answer": "a"
-},
-{
-    "question" : "Which mode loads minimal set of drivers when starting Windows?",
-    "a": "Safe Mode",
-    "b": "Normal Mode",
-    "c": "VGA Mode",
-    "d": "Network Support Mode",
-    "answer": "a"
-},
-{
-    "question" : "MacOS is based on the __________ operating system",
-    "a": "Windows",
-    "b": "Linux",
-    "c": "Unix",
-    "d": "CMOS",
-    "answer": "c"
-},
-{
-    "question" : "The Basic Input Output System (BIOS) resides in:",
-    "a": "RAM",
-    "b": "ROM",
-    "c": "CPU",
-    "d": "Memory cache",
-    "answer": "b"
-},
-{
-    "question" : "Recently deleted files are stored in:",
-    "a": "Desktop",
-    "b": "Taskbar",
-    "c": "Recycle bin",
-    "d": "My computer",
-    "answer": "c"
-},
-{
-    "question" : "All of the following are TRUE regarding Virtual Memory EXCEPT:",
-    "a": "Any amount of RAM can be allocated to virtual memory",
-    "b": "The setting for the amount of hard disk drive space to allocate virtual memory can be manually changed",
-    "c": "This temporary storage is called the swap file or page file",
-    "d": "Virtual memory is the physical space on the hard drive",
-    "answer": "a"
-},
-{
-    "question" : "Which of the following is suitable after user installs new drivers?",
-    "a": "Shutdown",
-    "b": "Restart",
-    "c": "Sleep",
-    "d": "Hibernate",
-    "answer": "b"
-},
-{
-    "question" : "Which of the following requires a device driver?",
-    "a": "Register",
-    "b": "Cache",
-    "c": "Main memory",
-    "d": "Disk",
-    "answer": "d"
-},
-{
-    "question" : "Which of the following scheduling algorithms is non-preemptive?",
-    "a": "Round robin",
-    "b": "FIFO",
-    "c": "Multilevel queue scheduling",
-    "d": "Multilevel queue scheduling with feedback",
-    "answer": "b"
-},
-{
-    "question" : "In operating system, a software may triggers an interrupt executing a special operation it is called as?",
-    "a": "System call",
-    "b": "Application call",
-    "c": "Software call",
-    "d": "Kernel call",
-    "answer": "a"
-},
-{
-    "question" : "Quad core processors are the processors having:",
-    "a": "1 processor",
-    "b": "2 processors",
-    "c": "3 processors",
-    "d": "4 processors",
-    "answer": "d"
-},
-{
-    "question" : "DMA is the part of computer system which is the abbreviation of?",
-    "a": "Dynamic memory address",
-    "b": "Direct memory access",
-    "c": "Dynamic memory access",
-    "d": "Direct memory address",
-    "answer": "b"
-},
-{
-    "question" : "One that is NOT an operating system mode is:",
-    "a": "User mode",
-    "b": "Kernel mode",
-    "c": "Supervisor mode",
-    "d": "System mode",
-    "answer": "d"
-},
-{
-    "question" : "One word memory storage is the collection of?",
-    "a": "2 bytes",
-    "b": "4 bytes",
-    "c": "7 bytes",
-    "d": "8 bytes",
-    "answer": "b"
-},
-{
-    "question" : "Secondary memory of the computer system is also called:",
-    "a": "Non-volatile",
-    "b": "Volatile",
-    "c": "Reserved",
-    "d": "Small",
-    "answer": "a"
-},
-{
-    "question" : "Main memory of the computer system is also called?",
-    "a": "Non-volatile",
-    "b": "Volatile",
-    "c": "Reserved",
-    "d": "Large",
-    "answer": "b"
-},
-{
-    "question" : "Example of an open source operating system is:",
-    "a": "Unix",
-    "b": "Linux",
-    "c": "Windows",
-    "d": "Both (a) and (b)",
-    "answer": "d"
-},
-{
-    "question" : "Scheduling of threads are done by?",
-    "a": "Input",
-    "b": "Output",
-    "c": "Operating System",
-    "d": "Memory",
-    "answer": "c"
-},
-{
-    "question" : "Dual mode of Operating System has:",
-    "a": "1 mode",
-    "b": "2 modes",
-    "c": "3 modes ",
-    "d": "4 modes ",
-    "answer": "b"
 }
 ]
